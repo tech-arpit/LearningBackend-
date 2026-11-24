@@ -1,0 +1,8 @@
+----Till What Topics Learned and Explored ----
+
+
+What are node modules , package.json , package-lock.json .
+How to install packages .
+How to run server 
+nodemon -- install as a development dependency 
+creating .gitignore and .env 
